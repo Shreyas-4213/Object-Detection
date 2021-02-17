@@ -1,0 +1,32 @@
+
+
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+font-weight: bold;
+}
+
+#number_of_objects{
+font-size: 18px;
+font-weight: bold;
+}
+
+body{
+background-size:cover;
+background-position:center;
+font-family: 'Special Elite', cursive;
+}
+
+canvas{
+box-shadow:10px 10px 10px grey;
+border-radius:10px;
+margin-top: 30px;
+}
